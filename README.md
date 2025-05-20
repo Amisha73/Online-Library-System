@@ -77,11 +77,12 @@ online-library-management/
 │   └── ...
 └── package.json
 
+```
+
 ## Running application
 
-- 1.Clone repository
+- 1.Clone repository : `https://github.com/Amisha73/Online-Library-System`
 - 2.navigate to the folder
 - 3.npm install 
 - 4.npm run dev
 
-```
